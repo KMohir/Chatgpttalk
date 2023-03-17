@@ -8,7 +8,7 @@ import pyttsx3
 from gtts import gTTS
 from loader import dp,bot
 import openai
-openai.api_key = "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"
+openai.api_key = "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"
 
 
 from keybord.default import button
